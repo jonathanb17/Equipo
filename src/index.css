@@ -1,0 +1,12 @@
+.background-Image {
+  background: url(./assets/backgroundImage.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  width: 100%;
+}
+
+.MuiTableCell-root {
+  padding: 0px;
+}

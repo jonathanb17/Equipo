@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+  color: "cyan";
+}
+
+::-webkit-scrollbar-track {
+  background-color: "cyan";
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: "cyan";
+}
